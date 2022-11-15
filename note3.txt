@@ -1,0 +1,22 @@
+Super admin
+UN: theprastdije
+PW: lateefa69
+
+Owner
+UN: ownerbi1
+PW: testbsi2022
+
+Manajer
+UN: manajerbi1
+PW: testbsi2022
+
+Kasir
+UN: kasirbi1
+PW: testbsi2022
+
+Staf
+UN: staffbi1
+PW: testbsi2022
+
+UN: staffbi2
+PW: testkaryawan2022
